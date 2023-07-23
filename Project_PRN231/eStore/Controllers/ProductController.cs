@@ -105,8 +105,8 @@ namespace eStore.Controllers
         [HttpPost]
         public async Task<IActionResult> EditProduct(ProductReq pmp, [FromForm] IFormFile fileImage)
         {
-            var bytes = new byte[fileImage.OpenReadStream().Length + 1];
-            fileImage.OpenReadStream().Read(bytes, 0, bytes.Length);
+            //var bytes = new byte[fileImage.OpenReadStream().Length + 1];
+            //fileImage.OpenReadStream().Read(bytes, 0, bytes.Length);
             ProductReq req = new ProductReq
             {
                 ProductId = pmp.ProductId,
@@ -118,7 +118,8 @@ namespace eStore.Controllers
                 UnitsInStock = pmp.UnitsInStock,
                 Discontinued = pmp.Discontinued,
                 CategoryId = pmp.CategoryId,
-                Picture = bytes
+                Picture = pmp.Picture,
+                //Picture = bytes
             };
 
             var _conn = $"api/products/{req.ProductId}";
@@ -142,8 +143,8 @@ namespace eStore.Controllers
         public async Task<IActionResult> AddProduct(ProductReq pmp, [FromForm] IFormFile fileImage)
         {
 
-            var bytes = new byte[fileImage.OpenReadStream().Length + 1];
-            fileImage.OpenReadStream().Read(bytes, 0, bytes.Length);
+            //var bytes = new byte[fileImage.OpenReadStream().Length + 1];
+            //fileImage.OpenReadStream().Read(bytes, 0, bytes.Length);
             ProductReq req = new ProductReq
             {
                 ProductName = pmp.ProductName,
@@ -154,7 +155,7 @@ namespace eStore.Controllers
                 UnitsInStock = pmp.UnitsInStock,
                 Discontinued = pmp.Discontinued,
                 CategoryId = pmp.CategoryId,
-                Picture = bytes
+                Picture = pmp.Picture
             };
 
             var _conn = $"api/products";

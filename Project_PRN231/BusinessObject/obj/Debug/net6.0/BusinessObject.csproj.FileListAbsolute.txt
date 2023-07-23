@@ -68,3 +68,17 @@ D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.
 D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
 D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
 D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+F:\PRN231\Project_PRN231\Project_PRN231\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

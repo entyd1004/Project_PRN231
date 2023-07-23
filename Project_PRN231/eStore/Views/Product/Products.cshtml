@@ -229,7 +229,7 @@
                                             </td>
                                             <td>
                                                 <div class="actions">
-                                                    <a href="/Products/Delete/@product.ProductId"> <span style="font-size: 14px;" class="fa-solid fa-ban"></span></a>
+                                                    <a asp-action="DeleteProduct" asp-route-id="@product.ProductId"> <span style="font-size: 14px;" class="fa-solid fa-ban"></span></a>
                                                     <a asp-action="EditProduct" asp-route-id="@product.ProductId"><span style="font-size: 14px;" class="fa-solid fa-pen-to-square"></span></a>
 
                                                 </div>

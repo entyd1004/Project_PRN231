@@ -160,7 +160,7 @@
                                             else if (((ClaimsIdentity)User.Identity).HasClaim(ClaimTypes.Role, "1"))
                                             {
                                                 <li class="nav-item"><a class="nav-link" asp-controller="Employee" asp-action="Employees">Admin</a></li>
-                                                <a href="https://localhost:7290/Home/logout" style="font-size: 35px;margin-right: 20px;"><i class="fa fa-sign-out"></i></a>
+                                                <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="SignOut">LogOut</a></li>
                                             }
                                             else
                                             {

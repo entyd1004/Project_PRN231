@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\EStoreAPI\\EStoreAPI.csproj": {}
+    "F:\\PRN231\\Project_PRN231\\Project_PRN231\\EStoreAPI\\EStoreAPI.csproj": {}
   },
   "projects": {
-    "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj": {
+    "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\obj\\",
+        "projectPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\LNV\\.nuget\\packages\\",
+        "outputPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,21 +83,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj": {
+    "F:\\PRN231\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\DataAccess\\obj\\",
+        "projectPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\LNV\\.nuget\\packages\\",
+        "outputPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,8 +111,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj"
+              "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }
@@ -142,21 +142,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\EStoreAPI\\EStoreAPI.csproj": {
+    "F:\\PRN231\\Project_PRN231\\Project_PRN231\\EStoreAPI\\EStoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\EStoreAPI\\EStoreAPI.csproj",
+        "projectUniqueName": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\EStoreAPI\\EStoreAPI.csproj",
         "projectName": "EStoreAPI",
-        "projectPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\EStoreAPI\\EStoreAPI.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\EStoreAPI\\obj\\",
+        "projectPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\EStoreAPI\\EStoreAPI.csproj",
+        "packagesPath": "C:\\Users\\LNV\\.nuget\\packages\\",
+        "outputPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\EStoreAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -164,18 +164,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj"
+              "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj"
               },
-              "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj"
+              "F:\\PRN231\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -250,7 +249,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

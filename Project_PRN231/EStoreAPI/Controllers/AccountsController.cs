@@ -33,7 +33,7 @@ namespace EStoreAPI.Controllers
             mapper = _mapper;
         }
 
-   //     [Authorize(Policy = "EmpOnly")]
+        [Authorize(Policy = "EmpOnly")]
         [HttpGet]
         [Route("totalCustomersAccounts")]
         public async Task<IActionResult> GetTotalCustomers()
@@ -42,7 +42,7 @@ namespace EStoreAPI.Controllers
             return Ok(data.Count());
         }
 
-   //     [Authorize(Policy = "EmpOnly")]
+        [Authorize(Policy = "EmpOnly")]
         [HttpGet]
         [Route("totalEmployeesAccounts")]
         public async Task<IActionResult> GetTotalEmployees()

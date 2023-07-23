@@ -422,9 +422,10 @@ public class HomeController : Controller
 
                             var a = JsonConvert.SerializeObject(order);
                             var Res = await ResponseConfig.PostData($"api/Orders/save/{email}", JsonConvert.SerializeObject(order));
-                            if (!Res.IsSuccessStatusCode)
-                                return StatusCode(StatusCodes.Status500InternalServerError);
                             HttpContext.Session.Remove("cart");
+                            return Redirect("/Home/Index");
+                            //if (!Res.IsSuccessStatusCode)
+                            //    return StatusCode(StatusCodes.Status500InternalServerError);
                         }
                     }
                     return Redirect("/Home/Index");
