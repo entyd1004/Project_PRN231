@@ -1,5 +1,5 @@
 
-EStoreAPI/.vs/**
-EStoreAPI/EStoreAPI/obj/**
-EStoreAPI/EStoreAPI/bin/Debug/net6.0/XLParser.dll
+Project_PRN231/.vs/**
+Project_PRN231/EStoreAPI/obj/**
+Project_PRN231/EStoreAPI/bin/Debug/net6.0/XLParser.dll
 *.cache
