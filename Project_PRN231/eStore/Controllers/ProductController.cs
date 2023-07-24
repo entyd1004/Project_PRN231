@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
+using System.Diagnostics;
 using System.Drawing;
 using System.Net.Http.Headers;
 using System.Text;
@@ -23,7 +24,7 @@ namespace eStore.Controllers
 
             var conn = string.IsNullOrEmpty(search)
                 ? $"api/Products?Page={@params.Page}&ItemsPerPage={@params.ItemsPerPage}"
-                : $"api/Products?Page={@params.Page}&ItemsPerPage={@params.ItemsPerPage}&productName={search}";
+                : $"api/Products?Page={@params.Page}&ItemsPerPage={@params.ItemsPerPage}&productName={search.Trim()}";
             conn = categoryId is null
                ? $"{conn}"
                : $"{conn}&categoryId={categoryId}";
