@@ -130,41 +130,42 @@
                                     </button>
 
                                     <div class="collapse navbar-collapse align-items-start collapse" id="karl-navbar">
-                                        <ul class="navbar-nav animated" id="nav">
-                                            <li class="nav-item active">
-                                                <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
-                                            </li>
-                                            <li class="nav-item dropdown">
-                                                <a class="nav-link dropdown-toggle" href="#" id="karlDropdown"
-                                                   role="button" data-toggle="dropdown" aria-haspopup="true"
-                                                   aria-expanded="false">Pages</a>
-                                                <div class="dropdown-menu" aria-labelledby="karlDropdown">
-                                                    <a class="dropdown-item" asp-controller="Home" asp-action="Shop">Shop</a>
-                                                    <a class="dropdown-item" asp-controller="Home" asp-action="Detail">
-                                                        Product
-                                                        Details
-                                                    </a>
-                                                    <a class="dropdown-item" asp-controller="Home" asp-action="Cart">Cart</a>
-                                                    <a class="dropdown-item" asp-controller="Home" asp-action="Checkout">Checkout</a>
-                                                </div>
-                                            </li>
-                                            @if (((ClaimsIdentity)User.Identity!).HasClaim(ClaimTypes.Role, "2"))
-                                            {
-                                                <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Profile">Profile</a></li>
-                                                <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="ChangePass">ChangePassword</a></li>
-                                                <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="SignOut">LogOut</a></li>
-                                                <li class="nav-item"><a class="nav-link" asp-controller="Employee" asp-action="Employees">Admin</a></li>
-                                            }
-                                            else if (((ClaimsIdentity)User.Identity).HasClaim(ClaimTypes.Role, "1"))
-                                            {
-                                                <li class="nav-item"><a class="nav-link" asp-controller="Employee" asp-action="Employees">Admin</a></li>
-                                                <a href="https://localhost:7290/Home/logout" style="font-size: 35px;margin-right: 20px;"><i class="fa fa-sign-out"></i></a>
-                                            }
-                                            else
-                                            {
-                                                <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Login">Login</a></li>
-                                            }
-                                        </ul>
+                                        <div class="collapse navbar-collapse align-items-start collapse" id="karl-navbar">
+                                            <ul class="navbar-nav animated" id="nav">
+                                                <li class="nav-item active">
+                                                    <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                                                </li>
+                                                <li class="nav-item dropdown">
+                                                    <a class="nav-link dropdown-toggle" href="#" id="karlDropdown"
+                                                       role="button" data-toggle="dropdown" aria-haspopup="true"
+                                                       aria-expanded="false">Pages</a>
+                                                    <div class="dropdown-menu" aria-labelledby="karlDropdown">
+                                                        <a class="dropdown-item" asp-controller="Home" asp-action="Shop">Shop</a>
+                                                        <a class="dropdown-item" asp-controller="Home" asp-action="Detail">
+                                                            Product
+                                                            Details
+                                                        </a>
+                                                        <a class="dropdown-item" asp-controller="Home" asp-action="Cart">Cart</a>
+                                                        <a class="dropdown-item" asp-controller="Home" asp-action="Checkout">Checkout</a>
+                                                    </div>
+                                                </li>
+                                                @if (((ClaimsIdentity)User.Identity!).HasClaim(ClaimTypes.Role, "2"))
+                                                {
+                                                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Profile">Profile</a></li>
+                                                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="ChangePass">ChangePassword</a></li>
+                                                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="SignOut">LogOut</a></li>
+                                                }
+                                                else if (((ClaimsIdentity)User.Identity).HasClaim(ClaimTypes.Role, "1"))
+                                                {
+                                                    <li class="nav-item"><a class="nav-link" asp-controller="Employee" asp-action="Employees">Admin</a></li>
+                                                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="SignOut">LogOut</a></li>
+                                                }
+                                                else
+                                                {
+                                                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Login">Login</a></li>
+                                                }
+                                            </ul>
+                                        </div>
                                     </div>
                                 </nav>
                             </div>

@@ -2405,19 +2405,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LNV\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj",
+      "projectUniqueName": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj",
       "projectName": "BusinessObject",
-      "projectPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj",
-      "packagesPath": "C:\\Users\\LNV\\.nuget\\packages\\",
-      "outputPath": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\BusinessObject\\obj\\",
+      "projectPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\BusinessObject.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\BusinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LNV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2486,7 +2486,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

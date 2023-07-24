@@ -57,7 +57,7 @@ namespace eStore.Controllers
             ViewBag.renuve = renuve;
 
             ViewData["pagination"] = pagination;
-            return RedirectToAction("Home");
-        }
+			return View(orders);
+		}
     }
 }

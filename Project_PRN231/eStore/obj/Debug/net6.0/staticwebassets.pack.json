@@ -1,519 +1,519 @@
 {
   "Files": [
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eStore.bundle.scp.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eStore.bundle.scp.css",
       "PackagePath": "staticwebassets\\eStore.bundle.scp.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\404.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\404.css",
       "PackagePath": "staticwebassets\\css\\404.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\animate.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\core-style.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\core-style.css",
       "PackagePath": "staticwebassets\\css\\core-style.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\editprofile.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\editprofile.css",
       "PackagePath": "staticwebassets\\css\\editprofile.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\jquery-ui.min.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\magnific-popup.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\magnific-popup.css",
       "PackagePath": "staticwebassets\\css\\magnific-popup.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\nouislider.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\nouislider.css",
       "PackagePath": "staticwebassets\\css\\nouislider.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\owl.carousel.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\owl.carousel.css",
       "PackagePath": "staticwebassets\\css\\owl.carousel.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\responsive.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\themify-icons.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\css\\themify-icons.css",
       "PackagePath": "staticwebassets\\css\\themify-icons.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\dashboard.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\dashboard.css",
       "PackagePath": "staticwebassets\\dashboard.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\FontAwesome.otf",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\themify.eot",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\fonts\\themify.eot"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\themify.svg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\fonts\\themify.svg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\themify.ttf",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\fonts\\themify.ttf"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\themify.woff",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\fonts\\themify.woff"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bag.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bag.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bag.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-1.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-1.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bg-1.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-2.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-2.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bg-2.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-3.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-3.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bg-3.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-4.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-4.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bg-4.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-5.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bg-5.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bg-5.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi1.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi1.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bgi1.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi2.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi2.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bgi2.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi3.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi3.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bgi3.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi4.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi4.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bgi4.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi5.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi5.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bgi5.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi6.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi6.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bgi6.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi7.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\bgi7.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\bgi7.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\buffgorras.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\buffgorras.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\buffgorras.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\hydration.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\hydration.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\hydration.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\kidshoes.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\kidshoes.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\kidshoes.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\menclothing.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\menclothing.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\menclothing.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\tes-1.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\bg-img\\tes-1.jpg",
       "PackagePath": "staticwebassets\\img\\bg-img\\tes-1.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\core-img\\favicon.ico",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\core-img\\favicon.ico",
       "PackagePath": "staticwebassets\\img\\core-img\\favicon.ico"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\core-img\\logo.png",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\core-img\\logo.png",
       "PackagePath": "staticwebassets\\img\\core-img\\logo.png"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\1.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\1.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\1.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\10.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\10.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\10.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\11.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\11.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\11.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\12.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\12.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\12.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\13.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\13.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\13.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\14.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\14.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\14.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\15.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\15.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\15.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\16.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\16.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\16.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\17.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\17.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\17.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\18.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\18.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\18.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\19.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\19.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\19.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\2.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\2.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\2.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\20.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\20.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\20.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\21.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\21.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\21.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\22.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\22.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\22.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\23.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\23.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\23.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\24.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\24.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\24.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\25.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\25.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\25.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\26.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\26.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\26.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\27.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\27.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\27.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\28.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\28.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\28.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\29.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\29.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\29.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\3.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\3.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\3.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\30.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\30.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\30.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\31.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\31.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\31.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\32.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\32.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\32.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\33.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\33.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\33.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\34.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\34.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\34.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\35.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\35.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\35.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\36.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\36.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\36.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\37.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\37.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\37.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\38.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\38.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\38.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\39.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\39.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\39.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\4.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\4.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\4.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\40.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\40.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\40.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\41.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\41.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\41.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\42.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\42.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\42.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\43.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\43.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\43.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\44.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\44.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\44.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\45.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\45.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\45.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\46.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\46.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\46.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\47.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\47.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\47.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\48.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\48.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\48.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\49.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\49.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\49.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\5.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\5.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\5.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\50.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\50.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\50.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\51.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\51.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\51.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\52.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\52.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\52.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\53.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\53.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\53.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\54.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\54.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\54.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\55.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\55.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\55.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\56.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\56.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\56.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\57.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\57.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\57.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\58.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\58.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\58.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\59.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\59.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\59.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\6.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\6.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\6.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\60.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\60.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\60.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\61.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\61.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\61.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\62.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\62.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\62.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\63.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\63.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\63.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\64.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\64.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\64.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\65.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\65.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\65.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\66.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\66.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\66.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\67.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\67.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\67.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\68.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\68.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\68.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\69.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\69.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\69.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\7.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\7.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\7.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\70.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\70.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\70.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\71.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\71.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\71.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\72.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\72.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\72.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\73.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\73.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\73.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\74.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\74.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\74.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\75.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\75.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\75.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\76.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\76.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\76.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\77.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\77.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\77.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\8.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\8.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\8.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\9.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\9.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\9.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\product-1.jpg",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\img\\product-img\\product-1.jpg",
       "PackagePath": "staticwebassets\\img\\product-img\\product-1.jpg"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\active.js",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\active.js",
       "PackagePath": "staticwebassets\\js\\active.js"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\jquery\\jquery-2.2.4.min.js",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\jquery\\jquery-2.2.4.min.js",
       "PackagePath": "staticwebassets\\js\\jquery\\jquery-2.2.4.min.js"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\plugins.js",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\plugins.js",
       "PackagePath": "staticwebassets\\js\\plugins.js"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\popper.min.js",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\site.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\site.css",
       "PackagePath": "staticwebassets\\site.css"
     },
     {
-      "Id": "F:\\PRN231\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\style.css",
+      "Id": "E:\\source\\repos\\Project_PRN231\\Project_PRN231\\eStore\\wwwroot\\style.css",
       "PackagePath": "staticwebassets\\style.css"
     },
     {

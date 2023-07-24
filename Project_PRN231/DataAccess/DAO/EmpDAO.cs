@@ -37,7 +37,7 @@ namespace DataAccess.DAO
             {
                 employees = await context.Employees.Include(x => x.Department).Include(x => x.Accounts).ToListAsync();
                 employees = dep is null ? employees : employees.Where(x => x.DepartmentId == dep).ToList();
-                employees = string.IsNullOrEmpty(name) ? employees : employees.Where(x => x.FullName.Contains(name)).ToList();
+                employees = string.IsNullOrEmpty(name) ? employees : employees.Where(x => x.FullName.ToLower().Contains(name.ToLower())).ToList();
                 employees = string.IsNullOrEmpty(courtesy) ? employees : employees.Where(x => x.TitleOfCourtesy!.Contains(courtesy)).ToList();
                 employees = string.IsNullOrEmpty(title) ? employees : employees.Where(x => x.Title!.Contains(title)).ToList();
                 employees = from is null ? employees : employees.Where(x => x.HireDate >= from).ToList();
