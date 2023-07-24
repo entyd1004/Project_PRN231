@@ -81,9 +81,9 @@ namespace DataAccess.DAO
                 products = await context.Products.Include(x => x.Category).ToListAsync();
 
                 products = string.IsNullOrEmpty(@filter.productName) ? products :
-                    products.Where(x => x.ProductName.Contains(@filter.productName)).ToList();
+                    products.Where(x => x.ProductName.ToLower().Contains(@filter.productName.ToLower())).ToList();
 
-                products = @filter.categoryId is null ? products :
+                products = @filter.categoryId is null || filter.categoryId == 0 ? products :
                     products.Where(x => x.CategoryId == @filter.categoryId).ToList();
 
                 products = @filter.UnitPrice is null ? products :

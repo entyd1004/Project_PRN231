@@ -70,7 +70,7 @@ namespace EStoreAPI.Controllers
             return product is null ? NotFound() : Ok(mapper.Map<ProductRes>(product));
         }
         [AllowAnonymous]
-      //  [Authorize(Policy = "EmpOnly")]
+        [Authorize(Policy = "EmpOnly")]
         [HttpPost]
         public async Task<IActionResult> Post(ProductReq product)
         {
@@ -113,7 +113,7 @@ namespace EStoreAPI.Controllers
             }
         }
 
-        //   [Authorize(Policy = "EmpOnly")]
+        [Authorize(Policy = "EmpOnly")]
         [AllowAnonymous]
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(int? id, ProductReq req)
@@ -124,7 +124,7 @@ namespace EStoreAPI.Controllers
             return Conflict();
         }
 
-        //  [Authorize(Policy = "EmpOnly")]
+        [Authorize(Policy = "EmpOnly")]
         [AllowAnonymous]
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int? id)

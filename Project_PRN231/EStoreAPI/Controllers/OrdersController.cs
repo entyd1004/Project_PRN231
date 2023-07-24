@@ -30,7 +30,7 @@ namespace EStoreAPI.Controllers
             mapper = _mapper;
         }
 
-     //   [Authorize]
+        [Authorize]
         [HttpGet]
         public async Task<IActionResult> Get([FromQuery] PaginationParams @params, DateTime? from, DateTime? to)
         {
@@ -40,7 +40,7 @@ namespace EStoreAPI.Controllers
             return Ok(data.Select(mapper.Map<Order, OrderRes>).ToList());
         }
 
-    //    [Authorize]
+        [Authorize]
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int? id)
         {
@@ -49,7 +49,7 @@ namespace EStoreAPI.Controllers
             return order is null ? NotFound() : Ok(mapper.Map<OrderRes>(order));
         }
 
-     //   [Authorize]
+        [Authorize]
         [HttpPost]
         [Route("save/{email}")]
         public async Task<IActionResult> Post(Order? order, string? email)
@@ -62,7 +62,7 @@ namespace EStoreAPI.Controllers
             return Ok(isSend);
         }
 
-     //   [Authorize]
+        [Authorize]
         [HttpPost]
         [Route("cancelorder/{id}")]
         public async Task<IActionResult> CancelOrder(int? id)
@@ -76,34 +76,6 @@ namespace EStoreAPI.Controllers
             return Ok(isSave);
         }
 
-    //    [Authorize]
-        [HttpPost]
-        [Route("export")]
-        public async Task<IActionResult> Export(int? id, string? email)
-        {
-            if (id is null || email is null) return BadRequest();
-            var order = await repository.Order(id);
-            string body = InvoiceConfig.GetBody(mapper.Map<OrderRes>(order), email);
-             {
-                 HtmlLoadOptions objLoadOptions = new HtmlLoadOptions();
-                 objLoadOptions.PageInfo.Margin.Bottom = 10;
-                 objLoadOptions.PageInfo.Margin.Top = 20;
-
-                 Document document = new Document(new MemoryStream(Encoding.UTF8.GetBytes(body)), objLoadOptions);
-                 FileContentResult pdf;
-
-                 using (var stream = new MemoryStream())
-                 {
-                     document.Save(stream);
-                     pdf = new FileContentResult(stream.ToArray(), "application/pdf")
-                     {
-                         FileDownloadName = "Order.pdf"
-                     };
-
-                 }
-                 return pdf;
-             } 
-        }
         [HttpGet]
         [Route("OrderMonth")]
         public async Task<IActionResult> GetTotalEmployees()
